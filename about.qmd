@@ -1,0 +1,38 @@
+---
+title: ""
+execute: 
+  freeze: auto
+---
+::: column-page
+::: {layout="[40,60]"}
+::: div
+</br> ![](grace_profile.jpeg){fig-alt="picture of Grace in a CTD rosette. She is wearing a blue pullover sweatshirt, and installing a camera."}
+:::
+
+::: div
+### Ahoy, I'm Grace!
+
+**Graduate Student** \| *Scripps Institution of Oceanography, University of California, San Diego*
+
+------------------------------------------------------------------------
+
+I am a sea-going zooplankton ecology, getting my PhD in Biological Oceanography in the Decima Lab! I am interested in zooplankton ecology from gelatinous organisms to how our changing oceans influence zooplankton community compostition. I like to use a variety of methods from good old fashioned observation, net collections, and imaging like with the Underwater Vision Profiler.
+
+------------------------------------------------------------------------
+
+**PhD in Biological Oceanography** \| *University of California, San Diego* \| July 2021 - Present
+
+**MS in Marine Biology** \| *Univeristy of California, San Diego* \| August 2022
+
+**MS in Environmental and Ocean Sciences** \| *University of San Diego* \| May 2019 - August 2020
+
+**BA in Environemntal and Ocean Sciences with a concentration in Marine Ecology** \| *Universiyt of San Diego* \| September 2015 - May 2019
+
+</br> *Want to talk more? Give a holler!*
+
+<a href="https://urldefense.com/v3/__https://carobuck.com/resume__;!!Mih3wA!EoFebZtAPTvF4MlTT0WCY3Juo-QY8wE7ujEN2mH7YryuITxaCmabphnmUNhd84yIiuTroxnYiilD4mEm$ " class="btn btn-outline-info"><i class="bi bi-stars"></i> Resume</a> <a href="https://urldefense.com/v3/__https://www.linkedin.com/in/caro-buck/__;!!Mih3wA!EoFebZtAPTvF4MlTT0WCY3Juo-QY8wE7ujEN2mH7YryuITxaCmabphnmUNhd84yIiuTroxnYisDlm4wD$ " class="btn btn-outline-info"><i class="bi bi-linkedin"></i> LinkedIn</a> <a href="https://urldefense.com/v3/__https://github.com/carobuck__;!!Mih3wA!EoFebZtAPTvF4MlTT0WCY3Juo-QY8wE7ujEN2mH7YryuITxaCmabphnmUNhd84yIiuTroxnYii-z3wcm$ " class="btn btn-outline-info"><i class="bi bi-github"></i> GitHub</a>
+:::
+:::
+
+*Wondering why a data party? If you know me, you know the keys to my heart are themed parties, good group photos and data of all shapes, sizes and flavors.*
+:::

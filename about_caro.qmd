@@ -1,0 +1,36 @@
+---
+title: "imposter"
+execute:
+  freeze: auto 
+---
+::: column-page
+::: {layout="[40,60]"}
+::: div
+</br> ![](grace_profile.jpeg){fig-alt="professional headshot photo of Caroline. She is wearing a black and white print shirt, has curly blonde/red hair and is smiling."}
+:::
+
+::: div
+### Howdy, I'm Caro, short for Caroline!
+
+**Data Science Lead** \| *Global Creative Data Team, Wunderman Thompson*
+
+**Private Math Tutor**
+
+R \| Python \| Quarto \| Flask \| JS \| GCP
+
+------------------------------------------------------------------------
+
+I’m a curious and creative human, with a passion for data of all sorts. I love wrangling unconventional data or using a visualization to foster understanding and promote data literacy. I’m a pro at building backend data apps, write some mean documentation, and am learning frontend. </br></br> I have worked on a wide variety of client projects, from AI-generated graffiti and time series modeling, to advanced analytics and data visualization. I thrive in environments where curiosity, creativity and rabbit holes are encouraged. </br></br> In my free time, you’ll find me swimming, sailing, swing dancing, or leading a tour around downtown Boston – come along for a stroll to be inundated with fun facts!
+
+------------------------------------------------------------------------
+
+**B.S. Applied Mathematics + Computer Science Minor** \| *Seattle Pacific University* \| 2014 - 2018
+
+</br> *Want to talk more? Give a holler!*
+
+<a href="https://urldefense.com/v3/__https://carobuck.com/resume__;!!Mih3wA!EoFebZtAPTvF4MlTT0WCY3Juo-QY8wE7ujEN2mH7YryuITxaCmabphnmUNhd84yIiuTroxnYiilD4mEm$ " class="btn btn-outline-info"><i class="bi bi-stars"></i> Resume</a> <a href="https://urldefense.com/v3/__https://www.linkedin.com/in/caro-buck/__;!!Mih3wA!EoFebZtAPTvF4MlTT0WCY3Juo-QY8wE7ujEN2mH7YryuITxaCmabphnmUNhd84yIiuTroxnYisDlm4wD$ " class="btn btn-outline-info"><i class="bi bi-linkedin"></i> LinkedIn</a> <a href="https://urldefense.com/v3/__https://github.com/carobuck__;!!Mih3wA!EoFebZtAPTvF4MlTT0WCY3Juo-QY8wE7ujEN2mH7YryuITxaCmabphnmUNhd84yIiuTroxnYii-z3wcm$ " class="btn btn-outline-info"><i class="bi bi-github"></i> GitHub</a>
+:::
+:::
+
+*Wondering why a data party? If you know me, you know the keys to my heart are themed parties, good group photos and data of all shapes, sizes and flavors.*
+:::

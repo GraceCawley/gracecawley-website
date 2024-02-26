@@ -1,0 +1,5 @@
+---
+title: "Research"
+---
+
+<a href="https://urldefense.com/v3/__https://carobuck.com/resume__;!!Mih3wA!EoFebZtAPTvF4MlTT0WCY3Juo-QY8wE7ujEN2mH7YryuITxaCmabphnmUNhd84yIiuTroxnYiilD4mEm$ " class="btn btn-outline-info"><i class="bi bi-stars"></i> Resume</a> <a href="https://urldefense.com/v3/__https://www.linkedin.com/in/caro-buck/__;!!Mih3wA!EoFebZtAPTvF4MlTT0WCY3Juo-QY8wE7ujEN2mH7YryuITxaCmabphnmUNhd84yIiuTroxnYisDlm4wD$ " class="btn btn-outline-info"><i class="bi bi-linkedin"></i> LinkedIn</a> <a href="https://urldefense.com/v3/__https://github.com/carobuck__;!!Mih3wA!EoFebZtAPTvF4MlTT0WCY3Juo-QY8wE7ujEN2mH7YryuITxaCmabphnmUNhd84yIiuTroxnYii-z3wcm$ " class="btn btn-outline-info"><i class="bi bi-github"></i> GitHub</a>
