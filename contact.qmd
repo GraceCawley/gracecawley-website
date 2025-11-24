@@ -1,0 +1,32 @@
+---
+title: "Contact Me"
+---
+
+# Contact Me
+
+Thanks for checking out my site!
+
+If you’d like to talk about zooplankton ecology, oceanographic fieldwork, pyrosomes, machine learning, or collaborative research, here’s how to reach me:
+
+📧 **Email:** gracecawley@proton.me  
+📍 **Location:** San Diego / Scripps Institution of Oceanography  
+
+---
+
+If you'd rather send a message directly, feel free to use the form below:
+
+<form action="https://formspree.io/f/YOUR-FORM-ID" method="POST">
+  <label>Your name:<br>
+    <input type="text" name="name" required>
+  </label><br><br>
+
+  <label>Your email:<br>
+    <input type="email" name="_replyto" required>
+  </label><br><br>
+
+  <label>Message:<br>
+    <textarea name="message" rows="5" required></textarea>
+  </label><br><br>
+
+  <button type="submit">Send</button>
+</form>
