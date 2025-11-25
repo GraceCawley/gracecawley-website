@@ -17,10 +17,3 @@ website:
           - href: land.qmd
             text: land
 
-format:
-  html:
-    theme: cosmo
-    toc: true
-    css: styles.css
-
-editor: visual
