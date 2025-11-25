@@ -1,0 +1,18 @@
+---
+title: "Bluefin Tuna Spawning Region (BLOOFINZ)"
+---
+
+# Bluefin Tuna Spawning Region (BLOOFINZ)
+
+In the bluefin tuna spawning region of the Indian Ocean, I’m interested in how mixotrophy and zooplankton dynamics shape energy transfer through the food web.
+
+Focus areas:
+- The role of mixotrophic protists and their impact on apparent trophic position
+- How zooplankton biomass and traits structure potential prey fields for bluefin tuna larvae
+- How biogeochemistry and physical structure (fronts, eddies) interact with community composition
+
+Methods include:
+- Bulk and compound-specific isotope analyses
+- Zooplankton community composition and size structure
+- Conceptual and trait-based food web models
+

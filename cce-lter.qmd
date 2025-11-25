@@ -1,0 +1,19 @@
+---
+title: "CCE-LTER & Pyrosomes"
+---
+
+# CCE-LTER & Pyrosomes
+
+I work in the California Current Ecosystem (CCE-LTER) using a mix of shipboard measurements, long-term datasets, image classification, and ecological theory to understand how pyrosomes fit into the system.
+
+My main questions include:
+- When and where do pyrosomes appear in the Southern California Bight and CCE-LTER region?
+- How do pyrosome “blooms” alter zooplankton community structure in a trait-based sense (feeding modes, body size, behavior)?
+- What are the consequences for carbon export, grazing, and energy flow when pyrosomes are present?
+
+This work combines:
+- Long-term CCE-LTER and CalCOFI time series
+- Shipboard process cruises
+- Image-based zooplankton data and machine learning classifiers
+- Trait-based interpretations of community change
+

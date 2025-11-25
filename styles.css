@@ -1,1 +1,67 @@
 /* css styles */
+/* --- Research cards layout --- */
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.research-card {
+  display: block;
+  padding: 18px 18px 16px 18px;
+  border-radius: 14px;
+  text-decoration: none;
+  background: #f9f9fb;
+  color: inherit;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+  transition: box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+}
+
+.research-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.16);
+}
+
+/* Icon + text inside cards */
+
+.research-card-icon {
+  font-size: 1.8rem;
+  margin-bottom: 0.4rem;
+}
+
+.research-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  font-size: 1.1rem;
+}
+
+.research-card p {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+/* Color accents per project */
+
+.research-card-cce {
+  border-top: 4px solid #0077b6;
+}
+
+.research-card-bluefinz {
+  border-top: 4px solid #ef476f;
+}
+
+.research-card-eel {
+  border-top: 4px solid #ffd166;
+}
+
+.research-card-santalucia {
+  border-top: 4px solid #06d6a0;
+}
+
+/* Optional: subtle background image on research page hero if you want later
+   e.g., target a .research-page class and use equator_sunset.jpeg */
+
