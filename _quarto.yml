@@ -16,7 +16,7 @@ website:
             text: sea
           - href: land.qmd
             text: land
-     
+
 format:
   html:
     theme: cosmo
