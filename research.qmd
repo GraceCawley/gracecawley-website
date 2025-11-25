@@ -7,30 +7,39 @@ title: "Research"
 My work spans zooplankton ecology, biogeochemistry, and trait-based food webs across multiple systems.  
 Click a project below to explore each one in more detail.
 
-<div class="research-grid">
+::: {.research-grid}
 
-  <a class="research-card research-card-cce" href="cce-lter.html">
-    <div class="research-card-icon">🌊</div>
-    <h3>CCE-LTER & Pyrosomes</h3>
-    <p>Pyrosomes as episodic colonizers, trait-based zooplankton shifts, and ecosystem impacts in the California Current.</p>
-  </a>
+::: {.research-card .research-card-cce}
+#### 🌊 CCE-LTER & Pyrosomes
 
-  <a class="research-card research-card-bluefinz" href="bluefinz.html">
-    <div class="research-card-icon">🐟</div>
-    <h3>Bluefin Tuna Spawning Region</h3>
-    <p>Mixotrophy, energy transfer, and zooplankton dynamics in the Indian Ocean bluefin spawning grounds.</p>
-  </a>
+Pyrosomes as episodic colonizers, trait-based zooplankton shifts, and ecosystem impacts in the California Current.
 
-  <a class="research-card research-card-eel" href="eel-zones.html">
-    <div class="research-card-icon">🧬</div>
-    <h3>Eel Breeding Zones</h3>
-    <p>Biogeochemistry and isotope structure of zooplankton communities in eel breeding areas.</p>
-  </a>
+[Learn more →](cce-lter.html)
+:::
 
-  <a class="research-card research-card-santalucia" href="santa-lucia.html">
-    <div class="research-card-icon">🏔️</div>
-    <h3>Santa Lucia</h3>
-    <p>Regional plankton and biogeochemical patterns around the Santa Lucia region and adjacent waters.</p>
-  </a>
+::: {.research-card .research-card-bluefinz}
+#### 🐟 Bluefin Tuna Spawning Region
 
-</div>
+Mixotrophy, energy transfer, and zooplankton dynamics in the Indian Ocean bluefin spawning grounds.
+
+[Learn more →](bluefinz.html)
+:::
+
+::: {.research-card .research-card-eel}
+#### 🧬 Eel Breeding Zones
+
+Biogeochemistry and isotope structure of zooplankton communities in eel breeding areas.
+
+[Learn more →](eel-zones.html)
+:::
+
+::: {.research-card .research-card-santalucia}
+#### 🏔️ Santa Lucia
+
+Regional plankton and biogeochemical patterns around the Santa Lucia region and adjacent waters.
+
+[Learn more →](santa-lucia.html)
+:::
+
+:::
+

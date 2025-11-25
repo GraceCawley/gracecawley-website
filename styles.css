@@ -1,4 +1,4 @@
-/* --- Research cards layout --- */
+/* --- Research cards layout (no raw HTML) --- */
 
 .research-grid {
   display: grid;
@@ -8,7 +8,6 @@
 }
 
 .research-card {
-  display: block;
   padding: 18px 18px 16px 18px;
   border-radius: 14px;
   text-decoration: none;
@@ -16,7 +15,7 @@
   color: inherit;
   border: 1px solid #ddd;
   box-shadow: 0 2px 6px rgba(0,0,0,0.06);
-  transition: box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 
 .research-card:hover {
@@ -24,22 +23,7 @@
   box-shadow: 0 6px 14px rgba(0,0,0,0.16);
 }
 
-.research-card-icon {
-  font-size: 1.8rem;
-  margin-bottom: 0.4rem;
-}
-
-.research-card h3 {
-  margin-top: 0;
-  margin-bottom: 0.4rem;
-  font-size: 1.1rem;
-}
-
-.research-card p {
-  margin: 0;
-  font-size: 0.95rem;
-  line-height: 1.4;
-}
+/* The colored strip can be simulated with a top border per card type */
 
 .research-card-cce {
   border-top: 4px solid #0077b6;
@@ -55,5 +39,16 @@
 
 .research-card-santalucia {
   border-top: 4px solid #06d6a0;
+}
+
+.research-card h4 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+}
+
+.research-card p {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.95rem;
+  line-height: 1.4;
 }
 
