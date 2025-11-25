@@ -2,8 +2,6 @@
 title: "Bluefin Tuna Spawning Region (BLOOFINZ)"
 ---
 
-# Bluefin Tuna Spawning Region (BLOOFINZ)
-
 In the bluefin tuna spawning region of the Indian Ocean, I’m interested in how mixotrophy and zooplankton dynamics shape energy transfer through the food web.
 
 Focus areas:

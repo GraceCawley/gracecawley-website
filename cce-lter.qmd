@@ -2,8 +2,6 @@
 title: "CCE-LTER & Pyrosomes"
 ---
 
-# CCE-LTER & Pyrosomes
-
 I work in the California Current Ecosystem (CCE-LTER) using a mix of shipboard measurements, long-term datasets, image classification, and ecological theory to understand how pyrosomes fit into the system.
 
 My main questions include:
