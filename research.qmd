@@ -24,7 +24,7 @@ Mixotrophy, energy transfer, and zooplankton dynamics in the Indian Ocean bluefi
 :::
 
 ::: {.research-card .research-card-eel}
-#### 🧬 Eel Breeding Zones
+#### 🌏 Eel Breeding Zones
 
 Biogeochemistry and isotope structure of zooplankton communities in eel breeding areas.
 
@@ -32,7 +32,7 @@ Biogeochemistry and isotope structure of zooplankton communities in eel breeding
 :::
 
 ::: {.research-card .research-card-santalucia}
-#### 🏔️ Santa Lucia
+#### 🐳 Santa Lucia
 
 Regional plankton and biogeochemical patterns around the Santa Lucia region and adjacent waters.
 
