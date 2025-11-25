@@ -16,8 +16,6 @@ website:
             text: sea
           - href: land.qmd
             text: land
-      - href: contact.qmd
-        text: contact
      
 format:
   html:
