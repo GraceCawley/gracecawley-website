@@ -1,54 +1,66 @@
-/* --- Research cards layout (no raw HTML) --- */
+/* --- Research project cards --- */
 
 .research-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 1.5rem;
-  margin-top: 1.5rem;
+  gap: 1.8rem;
+  margin-top: 2rem;
 }
 
 .research-card {
   padding: 18px 18px 16px 18px;
-  border-radius: 14px;
-  text-decoration: none;
-  background: #f9f9fb;
-  color: inherit;
-  border: 1px solid #ddd;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  border-radius: 16px;
+  background: #f7fbff;
+  border: 1px solid #d6e4f5;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
 }
 
 .research-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 6px 14px rgba(0,0,0,0.16);
-}
-
-/* The colored strip can be simulated with a top border per card type */
-
-.research-card-cce {
-  border-top: 4px solid #0077b6;
-}
-
-.research-card-bluefinz {
-  border-top: 4px solid #ef476f;
-}
-
-.research-card-eel {
-  border-top: 4px solid #ffd166;
-}
-
-.research-card-santalucia {
-  border-top: 4px solid #06d6a0;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.12);
+  border-color: #5ba4ff;
 }
 
 .research-card h4 {
   margin-top: 0;
   margin-bottom: 0.4rem;
+  font-size: 1.05rem;
 }
 
 .research-card p {
-  margin: 0 0 0.5rem 0;
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  font-size: 0.96rem;
+  line-height: 1.5;
+}
+
+.research-card a {
   font-size: 0.95rem;
-  line-height: 1.4;
+  text-decoration: none;
+  color: #0066cc;
+  font-weight: 500;
+}
+
+.research-card a:hover {
+  text-decoration: underline;
+}
+
+/* Color accents per project (thin top border) */
+
+.research-card-cce {
+  border-top: 4px solid #0077b6;    /* deep ocean blue */
+}
+
+.research-card-bluefinz {
+  border-top: 4px solid #ef476f;    /* tuna / pelagic pop */
+}
+
+.research-card-eel {
+  border-top: 4px solid #ffd166;    /* warm, midwater vibe */
+}
+
+.research-card-santalucia {
+  border-top: 4px solid #06d6a0;    /* coastal/land-sea contrast */
 }
 
