@@ -1,3 +1,83 @@
 ---
-title: "research"
+title: "Research"
 ---
+
+# Research
+
+Welcome! My work spans zooplankton ecology especially gelatinous zoops, biogeochemistry, and food webs across multiple systems. Click on away to learn more about the projects I'm apart of.
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1.5rem; margin-top: 1.5rem;">
+
+  <a href="#cce-lter" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; background-color: #f9f9f9;">
+      <h3 style="margin-top: 0; margin-bottom: 8px;">CCE-LTER & Pyrosomes</h3>
+      <p style="margin: 0; font-size: 0.95em;">
+        Pyrosome ecology, trait-based zooplankton shifts, and ecosystem impacts in the California Current.
+      </p>
+    </div>
+  </a>
+
+  <a href="#bluefinz" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; background-color: #f9f9f9;">
+      <h3 style="margin-top: 0; margin-bottom: 8px;">Bluefin Tuna Spawning Region</h3>
+      <p style="margin: 0; font-size: 0.95em;">
+        Mixotrophy, energy transfer, and zooplankton dynamics in the Indian Ocean bluefin spawning grounds.
+      </p>
+    </div>
+  </a>
+
+  <a href="#eel-zones" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; background-color: #f9f9f9;">
+      <h3 style="margin-top: 0; margin-bottom: 8px;">Eel Breeding Zones</h3>
+      <p style="margin: 0; font-size: 0.95em;">
+        Biogeochemistry and isotope structure of zooplankton in eel spawning regions.
+      </p>
+    </div>
+  </a>
+
+  <a href="#santa-lucia" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; background-color: #f9f9f9;">
+      <h3 style="margin-top: 0; margin-bottom: 8px;">Santa Lucia</h3>
+      <p style="margin: 0; font-size: 0.95em;">
+        Regional plankton and biogeochemical patterns around the Santa Lucia area.
+      </p>
+    </div>
+  </a>
+
+</div>
+
+---
+
+## CCE-LTER & Pyrosomes {#cce-lter}
+
+- Southern California Bight / CCE-LTER
+- pyrosomes as episodic colonizers
+- trait-based zooplankton community shifts
+- isotopes + image classification + long-term datasets
+
+
+---
+
+## Bluefin Tuna Spawning Region (BLOOFINZ) {#bluefinz}
+
+- Mixotrophy and how it modifies energy transfer
+- Zooplankton community structure in the Indian Ocean spawning region
+- CSIA-AA / bulk isotope work if you want to mention it
+
+---
+
+## Eel Breeding Zones {#eel-zones}
+
+- Isotope structure of zooplankton communities
+- Biogeochemical context of eel spawning areas
+- Myctophid foraging
+- Cruise aboard the Tangaroa
+
+---
+
+## Santa Lucia Region {#santa-lucia}
+
+- What the Santa Lucia work is about (hydrography, zoops, etc.)
+- Attach Santa Lucia Web Story 
+
+
