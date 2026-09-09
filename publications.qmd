@@ -1,3 +1,51 @@
 ---
-title: "publications"
+title: "Publications"
 ---
+
+Peer-reviewed publications are listed in reverse chronological order. Open-access and preprint links are provided where available.
+
+## 2026
+
+**Pelagic food web realignment supports resilient larvae of Southern Bluefin Tuna in a warming ocean**  
+Landry, M. R., Laiz-Carrión, R., Malca, E., Swalethorp, R., Décima, M., Quintanilla, J. M., Borrego-Santos, R., Davies, C. H., Kranz, S. A., Selph, K. E., Stukel, M. R., Die, D., Beckley, L. E., Muhling, B. A., Shiroza, A., Kim, L. E., **Cawley, G. F.**, Traboni, C., Walsh, K., Jivanjee, A., & Matisons, L.  
+*Proceedings of the National Academy of Sciences*, **123**(35), e2601583123.  
+[DOI](https://doi.org/10.1073/pnas.2601583123)
+
+**Mesozooplankton trophic structure in the Argo Basin, northwestern Australia**  
+Kim, L. E.-H., Swalethorp, R., Décima, M., **Cawley, G. F.**, & Landry, M. R.  
+*Deep Sea Research Part II: Topical Studies in Oceanography*, **227**, 105630.  
+[DOI](https://doi.org/10.1016/j.dsr2.2026.105630)
+
+**Distribution and taxonomic composition of leptocephali and hydrographic structure from New Zealand to the South Equatorial Current**  
+Miller, M. J., Watanabe, S., Schabetsberger, R., Behan-Kitto, N., **Cawley, G. F.**, Smith, N., Gill, A. M., Che-Pelicier, A., Saul, J. E., Sim, A., Miller, T. C., Dissanayake, S., Stewart, A. L., & Sabadel, A. J. M.  
+*Regional Studies in Marine Science*, **97**, 105026.  
+[DOI](https://doi.org/10.1016/j.rsma.2026.105026)
+
+**Zooplankton trophic processes in the eastern Indian Ocean off northwest Australia**  
+Décima, M., Swalethorp, R., **Cawley, G. F.**, Traboni, C., Davies, C. H., & Landry, M. R.  
+*Deep Sea Research Part II: Topical Studies in Oceanography*, **226**, 105592.  
+[Open access / DOI](https://doi.org/10.1016/j.dsr2.2026.105592)
+
+**Selective feeding of Southern Bluefin Tuna (*Thunnus maccoyii*) larvae on appendicularians in their eastern Indian Ocean spawning region**  
+Swalethorp, R., Malca, E., Shiroza, A., Kim, L., Décima, M., Quintanilla, J. M., Borrego-Santos, R., Davies, C. H., Die, D., Beckley, L. E., Traboni, C., **Cawley, G. F.**, Walsh, K., Landry, M. R., & Laiz-Carrión, R.  
+*Deep Sea Research Part II: Topical Studies in Oceanography*, **226**, 105591.  
+[Open access / DOI](https://doi.org/10.1016/j.dsr2.2026.105591) · [Open-access PDF](https://researchportal.murdoch.edu.au/esploro/outputs/journalArticle/Selective-feeding-of-Southern-Bluefin-Tuna/991005850984507891)
+
+**Exploring the roles of trophic mode and microbial prey size in grazing pathways of tropical oligotrophic waters of the eastern Indian Ocean**  
+Traboni, C., **Cawley, G. F.**, Selph, K. E., Landry, M. R., & Décima, M.  
+*Deep Sea Research Part II: Topical Studies in Oceanography*, **225**, 105573.  
+[DOI](https://doi.org/10.1016/j.dsr2.2025.105573) · [Open-access preprint](https://doi.org/10.1101/2025.09.02.673656)
+
+## 2025
+
+**Overview of BLOOFINZ/INDITUN investigations of the southern bluefin spawning region off northwest Australia, January–March 2022**  
+Landry, M. R., Laiz-Carrión, R., Kranz, S. A., Selph, K. E., Stukel, M. R., Malca, E., Die, D., Beckley, L. E., Décima, M., Swalethorp, R., Quintanilla, J. M., Yingling, N., Davies, C. H., Traboni, C., Borrego-Santos, R., Goes, J. I., de Souza, A., Romero-Fernández, P., Pennino, M. G., Kim, L. E., Kehinde, O., Lampe, R. H., Allen, A. E., Kelly, T. B., Muhling, B. A., Gu, S., Cassar, N., Laget, M., Biard, T., Liu, H., Io, K. H., Shiroza, A., **Cawley, G. F.**, Fender, C. K., Rose, J. M., Jivanjee, A., & Matisons, L.  
+*Deep Sea Research Part II: Topical Studies in Oceanography*, **224**, 105564.  
+[Open access / DOI](https://doi.org/10.1016/j.dsr2.2025.105564)
+
+## 2021
+
+**The effect of phytoplankton properties on the ingestion of marine snow by *Calanus pacificus***  
+**Cawley, G. F.**, Décima, M., Mast, A., & Prairie, J. C.  
+*Journal of Plankton Research*, **43**(6), 957–973.  
+[Open access](https://pmc.ncbi.nlm.nih.gov/articles/PMC8632794/) · [DOI](https://doi.org/10.1093/plankt/fbab074)
