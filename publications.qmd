@@ -6,6 +6,11 @@ Peer-reviewed publications are listed in reverse chronological order. Open-acces
 
 ## 2026
 
+**Scale-dependent effects of species richness and asynchrony regulate the temporal stability of consumer-mediated nutrient dynamics**  
+White, M., James, W. R., Lemoine, N. P., Peters, J. R., Stier, A. C., Emery, K. A., Castorani, M. C. N., Capone, D. A., Štajner, A., Enright, L. N., Grier, S. R., **Cawley, G. F.**, Spivak, A. C., Nelson, J. A., Hopcroft, R. R., Chen, A., Lyon, N. J., Kui, L., Caselle, J. E., Strickland, B. A., Allgeier, J. E., Rehage, J. S., & Burkepile, D. E.  
+*Proceedings of the National Academy of Sciences*, **123**(37), e2532469123.  
+[DOI](https://doi.org/10.1073/pnas.2532469123)
+
 **Pelagic food web realignment supports resilient larvae of Southern Bluefin Tuna in a warming ocean**  
 Landry, M. R., Laiz-Carrión, R., Malca, E., Swalethorp, R., Décima, M., Quintanilla, J. M., Borrego-Santos, R., Davies, C. H., Kranz, S. A., Selph, K. E., Stukel, M. R., Die, D., Beckley, L. E., Muhling, B. A., Shiroza, A., Kim, L. E., **Cawley, G. F.**, Traboni, C., Walsh, K., Jivanjee, A., & Matisons, L.  
 *Proceedings of the National Academy of Sciences*, **123**(35), e2601583123.  
